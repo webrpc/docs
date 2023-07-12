@@ -25,8 +25,7 @@ function useShowAnnouncementBar() {
 }
 
 export default function DocSidebarDesktopContent({ path, sidebar, className }) {
-  // const showAnnouncementBar = useShowAnnouncementBar()
-  const showAnnouncementBar = false
+  const showAnnouncementBar = useShowAnnouncementBar()
 
   return (
     <nav

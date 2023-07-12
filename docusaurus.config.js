@@ -68,7 +68,7 @@ module.exports = {
       image: 'img/webrpc-banner.png',
       announcementBar: {
         id: 'announcementBar', // Increment on change
-        content: `❤️ To follow webrpc updates or give us a star :) check out our <a target="_blank" rel="noopener noreferrer" href="https://github.com/webrpc">github</a>`
+        content: `❤️ To follow webrpc updates or give us a star :) check out our <a target="_blank" rel="noopener noreferrer" href="https://github.com/webrpc">Github</a>`
       },
       navbar: {
         logo: {
